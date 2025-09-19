@@ -48,7 +48,7 @@ const LoginPage = () => {
           >
             <p>I'm a Student</p>
             <span>
-              Submit Polls in Real Time
+              Submit Polls in real-time which can be viewed by a teacher.
             </span>
           </div>
           <div
